@@ -1,0 +1,12 @@
+{
+  "name": "woah-there-mousewheel",
+  "version": "0.0.0",
+  "description": "You're going a bit too fast there!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rzhw/woah-there-mousewheel"
+  },
+  "engines": {
+    "atom": ">0.98.0"
+  }
+}
