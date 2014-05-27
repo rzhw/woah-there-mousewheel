@@ -1,6 +1,6 @@
 {
   "name": "woah-there-mousewheel",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Slow down your Atom scrollwheel",
   "repository": {
     "type": "git",
