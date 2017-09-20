@@ -7,6 +7,6 @@
     "url": "https://github.com/rzhw/woah-there-mousewheel"
   },
   "engines": {
-    "atom": ">0.98.0"
+    "atom": ">0.98.0 <0.116.0"
   }
 }
